@@ -6,4 +6,8 @@ kill process in mac
 add propertiy if var != undefined 
 
   '<div className="my-element" {...props.myProp && { myProp: props.myProp }}/>'
-  
+ 
+ 
+ object array interface, ts
+ 
+  options: {text:string, value:string} []
