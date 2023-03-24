@@ -5,5 +5,5 @@ kill process in mac
   
 add propertiy if var != undefined 
 
-  <div className="my-element" {...props.myProp && { myProp: props.myProp }}/>
+  '<div className="my-element" {...props.myProp && { myProp: props.myProp }}/>'
   
